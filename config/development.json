@@ -1,0 +1,8 @@
+{
+    "port": 3000,
+    "db": {
+        "host": "mongodb://localhost/eventManagement",
+        "user": "",
+        "password": ""
+    }
+}
